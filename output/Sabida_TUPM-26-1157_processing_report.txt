@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+----------------------------------------
+Last Name: Sabida
+Student ID: TUPM-26-1157
+Seed Digit: 7
+ID Sum: 22
+Verification Value: 139
+Dataset Sample Size: 72
+Valid Records: 0
+Average Global Active Power: 0.000
+JSON File: Jsonfile
+Backup File: Sabida_TUPM-26-1157_backup.txt
