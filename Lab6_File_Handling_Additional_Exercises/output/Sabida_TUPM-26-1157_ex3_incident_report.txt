@@ -1,0 +1,29 @@
+CYBERSECURITY INCIDENT REPORT
+--------------------------------------------------
+Student: Sabida (TUPM-26-1157)
+Target Year: 2022
+Total Records in Dataset: 3000
+Incidents in Target Year: 318
+
+Incident Count per Attack Type:
+  - Phishing: 57
+  - Malware: 64
+  - Ransomware: 56
+  - SQL Injection: 46
+  - DDoS: 54
+  - Man-in-the-Middle: 41
+
+Total Financial Loss (USD Millions): 15870.86
+Average Financial Loss (USD Millions): 49.908
+
+Five Costliest Incidents:
+  1. Japan | Phishing | $98.47M
+  2. USA | SQL Injection | $98.46M
+  3. Brazil | Phishing | $98.06M
+  4. UK | Phishing | $97.56M
+  5. Japan | Malware | $97.32M
+
+Output Files:
+  - Filtered CSV: Sabida_TUPM-26-1157_ex3_cyber_2022.csv
+  - JSON Summary: Sabida_TUPM-26-1157_ex3_top5_costliest.json
+  - JSON Backup Verified: True

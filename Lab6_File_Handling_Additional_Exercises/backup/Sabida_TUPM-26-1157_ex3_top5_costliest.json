@@ -1,0 +1,78 @@
+{
+    "student": "Sabida",
+    "student_id": "TUPM-26-1157",
+    "target_year": 2022,
+    "incidents_in_target_year": 318,
+    "count_per_attack_type": {
+        "Phishing": 57,
+        "Malware": 64,
+        "Ransomware": 56,
+        "SQL Injection": 46,
+        "DDoS": 54,
+        "Man-in-the-Middle": 41
+    },
+    "total_financial_loss_million_usd": 15870.86,
+    "average_financial_loss_million_usd": 49.908,
+    "five_costliest_incidents": [
+        {
+            "Country": "Japan",
+            "Year": "2022",
+            "Attack Type": "Phishing",
+            "Target Industry": "Banking",
+            "Financial Loss (in Million $)": "98.47",
+            "Number of Affected Users": "972469",
+            "Attack Source": "Nation-state",
+            "Security Vulnerability Type": "Zero-day",
+            "Defense Mechanism Used": "Antivirus",
+            "Incident Resolution Time (in Hours)": "21"
+        },
+        {
+            "Country": "USA",
+            "Year": "2022",
+            "Attack Type": "SQL Injection",
+            "Target Industry": "Government",
+            "Financial Loss (in Million $)": "98.46",
+            "Number of Affected Users": "429452",
+            "Attack Source": "Hacker Group",
+            "Security Vulnerability Type": "Weak Passwords",
+            "Defense Mechanism Used": "Antivirus",
+            "Incident Resolution Time (in Hours)": "6"
+        },
+        {
+            "Country": "Brazil",
+            "Year": "2022",
+            "Attack Type": "Phishing",
+            "Target Industry": "Banking",
+            "Financial Loss (in Million $)": "98.06",
+            "Number of Affected Users": "884502",
+            "Attack Source": "Insider",
+            "Security Vulnerability Type": "Unpatched Software",
+            "Defense Mechanism Used": "AI-based Detection",
+            "Incident Resolution Time (in Hours)": "55"
+        },
+        {
+            "Country": "UK",
+            "Year": "2022",
+            "Attack Type": "Phishing",
+            "Target Industry": "Government",
+            "Financial Loss (in Million $)": "97.56",
+            "Number of Affected Users": "722445",
+            "Attack Source": "Nation-state",
+            "Security Vulnerability Type": "Weak Passwords",
+            "Defense Mechanism Used": "Firewall",
+            "Incident Resolution Time (in Hours)": "10"
+        },
+        {
+            "Country": "Japan",
+            "Year": "2022",
+            "Attack Type": "Malware",
+            "Target Industry": "Education",
+            "Financial Loss (in Million $)": "97.32",
+            "Number of Affected Users": "742866",
+            "Attack Source": "Nation-state",
+            "Security Vulnerability Type": "Social Engineering",
+            "Defense Mechanism Used": "Encryption",
+            "Incident Resolution Time (in Hours)": "61"
+        }
+    ]
+}

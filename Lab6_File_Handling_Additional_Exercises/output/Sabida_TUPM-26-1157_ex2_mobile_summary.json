@@ -1,0 +1,13 @@
+{
+    "student": "Sabida",
+    "student_id": "TUPM-26-1157",
+    "operating_system": "iOS",
+    "user_behavior_class": 3,
+    "total_records_in_dataset": 700,
+    "records_matching_os": 146,
+    "records_in_target_behavior_class": 32,
+    "average_battery_drain_mAh_per_day": 1492.03,
+    "average_data_usage_MB_per_day": 828.09,
+    "exported_row_count": 32,
+    "count_verification": true
+}
