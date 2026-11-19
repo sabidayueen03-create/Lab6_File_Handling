@@ -6,3 +6,7 @@ data/
 
 household_power_consumption.txt
 *.txt
+
+individual+household+electric+power+consumption/
+**/household_power_consumption.txt
+*.txt
